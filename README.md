@@ -1,4 +1,4 @@
-# Racer Game — сборка JavaFX-игры через Maven
+# Racer Game - сборка JavaFX-игры через Maven
 
 Учебный проект для курса JavaRush (модуль «Java Professional»). 
 Задача — настроить сборку исполняемого fat-JAR-файла с JavaFX-игрой (гонка) и локальным игровым движком. 
