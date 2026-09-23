@@ -29,10 +29,10 @@
 - JDK 18.0.1
 - Maven 3.6+
 
+##  Результат
+target/project-maven-1.0.jar (fat-JAR со всеми зависимостями внутри).
+
 ## Как собрать
 
 ```bash
-mvn clean install
-
-##  Результат
-target/project-maven-1.0.jar (fat-JAR со всеми зависимостями внутри).
+mvn clean install 
